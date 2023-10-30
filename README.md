@@ -1,4 +1,8 @@
 # FiveM Car Pack 
+RIP the best car pack of all time.
+I WILL still be updating this pack, regardless of the Rockstar/CFX.re rules. 
+I have put too many hours into this. 
+
 all cars below besides the ones in poly-super-high.txt below 300k poly count.
 ignore the list below, its a copy and paste from the start of this pack, theres TONS more now
 i still need to add.
