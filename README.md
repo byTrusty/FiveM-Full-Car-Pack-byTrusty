@@ -16,7 +16,7 @@ this pack will be updated periodically.
 
 
 <!--![Car Menu](https://img.shields.io/badge/Car%20Menu-Up%20to%20Date-brightgreen?style=for-the-badge)-->
-[Picture](https://img.shields.io/badge/Car%20List-Outdated-red?style=for-the-badge)
+![Picture](https://img.shields.io/badge/Car%20List-Outdated-red?style=for-the-badge)
 <!--!
 <center><h1>All included cars with pictures and spawn codes</h1></center>
 
