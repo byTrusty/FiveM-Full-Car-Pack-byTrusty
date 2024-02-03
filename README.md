@@ -16,8 +16,8 @@ this pack will be updated periodically.
 
 
 <!--![Car Menu](https://img.shields.io/badge/Car%20Menu-Up%20to%20Date-brightgreen?style=for-the-badge)-->
-<!--![Car List](https://img.shields.io/badge/Car%20List-Outdated-red?style=for-the-badge)-->
-<!--![plocks-cars.cfg](https://img.shields.io/badge/plocks&minus;cars.cfg-Outdated-red?style=for-the-badge)-->
+[Car List](https://img.shields.io/badge/Car%20List-Outdated-red?style=for-the-badge)
+<!--!
 <center><h1>All included cars with pictures and spawn codes</h1></center>
 
 | Car Name | Spawn Code  | Link to Picture | Author | Authors Download Link | Status | Extra Notes |
