@@ -200,6 +200,4 @@ Citizen.CreateThread(function()
 	AddTextEntry('lykan', 'W-Motors Lykan HyperSport')
 	-- AddTextEntry('SPAWN-CODE', 'Vehicle Name')
 	AddTextEntry('#', '#')
-	-- Add in later
-	AddTextEntry('17civict', '2017 Honda Civic Touring')
 end)
